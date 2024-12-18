@@ -1,8 +1,10 @@
+# HTMD Conference 2024
+
 This repository has the ppt and codes that were presented at HTMD Conference - 2024 for the session  **Automate Intune day-to-day tasks using Microsoft Graph API and PowerShell – Tips and Tricks** by **Sujin Nelladath**
 
-****Event Details**:- https://www.meetup.com/htmdin/events/303922679/
+**Event Details**:- https://www.meetup.com/htmdin/events/303922679/
 
-**My Session Poster**
+# My Session Poster
 
 ![64b3a4cf-c12b-448d-8478-ca3d6fc08faf](https://github.com/user-attachments/assets/a59450c9-ee52-4dd2-805c-75696141938a)
 
