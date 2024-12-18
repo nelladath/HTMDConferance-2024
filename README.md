@@ -9,7 +9,7 @@ This repository has the ppt and codes that were presented at HTMD Conference - 2
 ![64b3a4cf-c12b-448d-8478-ca3d6fc08faf](https://github.com/user-attachments/assets/a59450c9-ee52-4dd2-805c-75696141938a)
 
 
-**Complete Agenda**
+# Complete Agenda
 
 _Track - 1_
 
