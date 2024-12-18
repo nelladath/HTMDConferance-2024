@@ -11,11 +11,11 @@ This repository has the ppt and codes that were presented at HTMD Conference - 2
 
 # Complete Agenda
 
-_Track - 1_
+Track - 1
 
 ![8c94a7c5-53ca-4556-b063-b8ccdbe61085](https://github.com/user-attachments/assets/6a51ea57-9cbe-4423-ba0c-cc2cb2c2f47e)
 
-_Track -2 _
+Track - 2 
 
 ![30fb1b48-6089-4a75-9756-87d34e11e5d7](https://github.com/user-attachments/assets/20f5e76e-4642-426c-85dd-861c7bbe04d2)
 
